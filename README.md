@@ -1,17 +1,17 @@
 ## 📁 Project Structure
 
 ```
-cloud-active-directory-lab/
+📁 cloud-active-directory-lab
 │
-├── README.md
+├── 📄 README.md
 │
-├── docs/
-│   ├── project-overview.md
-│   ├── ad-architecture.md
-│   ├── ticketing-workflow.md
-│   └── jira-tasks.md
+├── 📂 docs
+│   ├── 📄 project-overview.md
+│   ├── 📄 ad-architecture.md
+│   ├── 📄 ticketing-workflow.md
+│   └── 📄 jira-tasks.md
 │
-├── screenshots/
+├── 🖼️ screenshots
 │   ├── 01-aws-console.png
 │   ├── 02-ami-selection.png
 │   ├── 03-instance-type.png
@@ -38,7 +38,7 @@ cloud-active-directory-lab/
 │   ├── 24-ticket-complete.png
 │   └── 25-jira-dashboard.png
 │
-└── scripts/
+└── 💻 scripts
     ├── create-ous.ps1
     ├── create-users.ps1
     ├── create-groups.ps1
