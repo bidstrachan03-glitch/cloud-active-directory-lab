@@ -1,3 +1,6 @@
+## 📁 Project Structure
+
+```
 📁 cloud-active-directory-lab
 │
 ├── 📄 README.md
@@ -40,3 +43,4 @@
     ├── create-users.ps1
     ├── create-groups.ps1
     └── verify-domain.ps1
+```
